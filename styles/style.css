@@ -1,0 +1,23 @@
+.quiz{
+	background-color: white;
+	padding: 20px;
+}
+#qna{
+	height: auto!important;
+}
+.przyciski{
+	width: 100%;
+}
+#nxtStep{
+	visibility: hidden;
+}
+ul {
+  list-style-type: none;
+  padding-inline-start:10px!important;
+}
+li{
+	margin-bottom: 5px;
+}
+input[type=radio] {
+	margin-right: 5px;
+}
